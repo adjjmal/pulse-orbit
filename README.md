@@ -20,10 +20,13 @@ npm run preview
 
 ## How it works
 
-- Tap / click / press Space when the needle is inside an arc
-- Perfect hits grow your combo and score multiplier
-- Golden arcs are rare variable rewards (big points + energy)
-- Levels raise speed and unlock orbit skins
+- Tap / click / press Space when the needle is inside an arc; tapping empty ring breaks your combo
+- Missing an arc costs a life (3 to start, max 5)
+- Each level adds a new arc type: golden, shrinking, drifting, reverse, hazard (don't tap), double
+- Perfects and golden arcs fill the fever meter: 6 s of 2× score where every hit is perfect
+- Every level-up you draft 1 of 3 perks (wider arcs, shields, slow-mo, greed…)
+- Runs earn XP toward a rank; ranks unlock permanent run perks
+- Three daily missions plus a random reward chest when all are done
 - Soft daily streak bonus and limited energy keep sessions short
 - Best runs save to a local leaderboard in your browser
 
